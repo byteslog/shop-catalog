@@ -1,2 +1,2 @@
-available	price	currencyId	category	picture	name
-false 21550	RUR	Ноутбуки/Acer	http://byte-sl.ru/media/products_images/5xKWwXf4qYQ_3.jpg	Acer ASPIRE E5-511-C5B8
+available,	price,	currencyId,	category,	picture,	name
+false, 21550,	RUR,	Ноутбуки/Acer,	http://byte-sl.ru/media/products_images/5xKWwXf4qYQ_3.jpg,	Acer ASPIRE E5-511-C5B8
